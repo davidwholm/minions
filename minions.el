@@ -4,6 +4,7 @@
 
 ;; Author: Jonas Bernoulli <jonas@bernoul.li>
 ;; Homepage: https://github.com/tarsius/minions
+;; Version: 0.3.4
 ;; Keywords: convenience
 
 ;; Package-Requires: ((emacs "25.2") (compat "28.1.1.0"))
